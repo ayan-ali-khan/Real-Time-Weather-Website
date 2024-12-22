@@ -1,7 +1,5 @@
 # Weather App Website
 
-![Weather App Preview](https://via.placeholder.com/800x400?text=Weather+App+Preview)
-
 ## About the Project
 The Weather App Website is a real-time weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches live weather data from an API and displays essential weather details like temperature, wind speed, and humidity. The app is fully responsive and offers a clean, user-friendly interface for seamless user interaction.
 
@@ -13,13 +11,6 @@ The Weather App Website is a real-time weather application built using **HTML**,
 
 ## Live Demo
 Check out the deployed version of the project: [Real-Time Weather App](https://real-time-weather-website.vercel.app)
-
-## Screenshots
-### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
-
-### Weather Details
-![Weather Details Screenshot](https://via.placeholder.com/800x400?text=Weather+Details+Screenshot)
 
 ## Built With
 - **HTML5**: For structuring the web content.
